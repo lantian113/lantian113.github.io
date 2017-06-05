@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# 兰天
 
-You can use the [editor on GitHub](https://github.com/lantian113/my_jd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+男 | 未婚 | 1992年2月生 | 户口：承德<br/>
+现居住于 : 北京<br/>
+3年前端工作经验<br/>
+电话：18811104435<br/>
+E-mail：lantian19920202@163.com
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##### 求职意向 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+工作性质：全职<br/>
+期望职业：WEB前端开发<br/>
+期望行业：IT服务(系统/数据/维护)<br/>
+工作地区：北京<br/>
+期望月薪：面议<br/>
+目前状况：我目前处于离职状态，可立即上岗
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lantian113/my_jd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### 自我描述 
+    
 
-### Support or Contact
+在页面排版布局上熟练运用css3+html5进行静态页面的绘制，使用jquery、javascript实现交互效果，熟悉使用webpack+vue-cli进行项目目录搭建，后期对项目进行维护管理。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+##### 工作经历 
+北京新氧科技有限公司 | Web前端开发工程师 (2016.11-至今)
+<<工作职责：
+      运用css3+html5布局静态页面,运用jquery、zepto类库实现交互效果,对项目目录进行搭建并维护。
+
+北京信诺创业科技有限公司 | WEB前端开发 (2015.9-2016.11)
+<<工作职责：
+      运用css3+html5布局静态页面,运用jquery、javascript实现交互效果,使用iscroll、zeptal实现项目效果。
+##### 项目阐述 
+1.茶语app
+责任描述：
+    主要负责css+html实现静态页面绘制,封装次项目所需的内部组件库,并对组件进行后期维护。
+2.微信小程序
+责任描述：
+    主要负责微信小程序的源码开发,在app.json中配置页脚跳转路由，通过对小程序api的调用，通过getStorageSync从本地获取数据，运用wx.login调用登录接口，解决了通过接口拿到所需要的数据的问题。
+3.看鉴
+责任描述：
+    主要负责项目中自定义指令的封装模块,调用多个控制器,以及使用配置页面路由,进行数据动态渲染。
+教育经历 
+<<2011/09 一 2015/08
+四川师范大学文理学院 | 广播电视编导 | 本科 | 统招
